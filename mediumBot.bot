@@ -1,0 +1,18 @@
+{
+    "name": "mediumBot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "af8ea9c0-5adf-11e9-bb14-7b13e24da052",
+            "name": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "C:\\Users\\roadade\\Bots\\medium-bot\\mediumBot.bot"
+}
