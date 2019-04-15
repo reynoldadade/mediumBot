@@ -1,0 +1,19 @@
+user=Reynold
+bot=mediumBot
+
+bot: Hello?
+bot: [Typing][Delay=3000]
+How may I help you today?
+user: I want to check the weather for london, uk
+bot: [Typing][Delay=3000]
+Here we go!!
+bot: [HeroCard
+    title=Weather forecast
+    subtitle=London, uk
+    text=Temperature will be 15 degree celsius and it will be rainy
+    images=http://openweathermap.org/img/w/10d.png
+    buttons=Learn More]
+user: ok, thank you
+bot: You are welcome, Anything else?
+user: No, thank you
+bot: Have a nice day
