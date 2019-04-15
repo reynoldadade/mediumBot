@@ -1,0 +1,237 @@
+[
+  {
+    "conversation": {
+      "id": "5BTSaqzb3TOQqfREoTXAzjXtqD0="
+    },
+    "id": "1",
+    "timestamp": "2019-04-15T14:47:40.100Z",
+    "type": "conversationUpdate",
+    "channelId": "chatdown",
+    "membersAdded": [
+      {
+        "id": "fnErdOa20CJJQEuFA+cIBOWpJSU=",
+        "name": "mediumBot",
+        "role": "bot"
+      }
+    ],
+    "membersRemoved": []
+  },
+  {
+    "conversation": {
+      "id": "5BTSaqzb3TOQqfREoTXAzjXtqD0="
+    },
+    "id": "2",
+    "recipient": {
+      "id": "5ZEn4nUv/BEmgBdirke48+llDr4=",
+      "name": "Reynold",
+      "role": "user"
+    },
+    "from": {
+      "id": "fnErdOa20CJJQEuFA+cIBOWpJSU=",
+      "name": "mediumBot",
+      "role": "bot"
+    },
+    "text": "Hello?",
+    "timestamp": "2019-04-15T14:47:42.100Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "5BTSaqzb3TOQqfREoTXAzjXtqD0="
+    },
+    "id": "4",
+    "recipient": {
+      "id": "5ZEn4nUv/BEmgBdirke48+llDr4=",
+      "name": "Reynold",
+      "role": "user"
+    },
+    "from": {
+      "id": "fnErdOa20CJJQEuFA+cIBOWpJSU=",
+      "name": "mediumBot",
+      "role": "bot"
+    },
+    "timestamp": "2019-04-15T14:47:42.200Z",
+    "type": "typing",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "5BTSaqzb3TOQqfREoTXAzjXtqD0="
+    },
+    "id": "3",
+    "recipient": {
+      "id": "5ZEn4nUv/BEmgBdirke48+llDr4=",
+      "name": "Reynold",
+      "role": "user"
+    },
+    "from": {
+      "id": "fnErdOa20CJJQEuFA+cIBOWpJSU=",
+      "name": "mediumBot",
+      "role": "bot"
+    },
+    "text": "How may I help you today?",
+    "timestamp": "2019-04-15T14:47:45.200Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "5BTSaqzb3TOQqfREoTXAzjXtqD0="
+    },
+    "id": "5",
+    "recipient": {
+      "id": "fnErdOa20CJJQEuFA+cIBOWpJSU=",
+      "name": "mediumBot",
+      "role": "bot"
+    },
+    "from": {
+      "id": "5ZEn4nUv/BEmgBdirke48+llDr4=",
+      "name": "Reynold",
+      "role": "user"
+    },
+    "text": "I want to check the weather for london, uk",
+    "timestamp": "2019-04-15T14:47:47.200Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "5BTSaqzb3TOQqfREoTXAzjXtqD0="
+    },
+    "id": "7",
+    "recipient": {
+      "id": "5ZEn4nUv/BEmgBdirke48+llDr4=",
+      "name": "Reynold",
+      "role": "user"
+    },
+    "from": {
+      "id": "fnErdOa20CJJQEuFA+cIBOWpJSU=",
+      "name": "mediumBot",
+      "role": "bot"
+    },
+    "timestamp": "2019-04-15T14:47:47.300Z",
+    "type": "typing",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "5BTSaqzb3TOQqfREoTXAzjXtqD0="
+    },
+    "id": "6",
+    "recipient": {
+      "id": "5ZEn4nUv/BEmgBdirke48+llDr4=",
+      "name": "Reynold",
+      "role": "user"
+    },
+    "from": {
+      "id": "fnErdOa20CJJQEuFA+cIBOWpJSU=",
+      "name": "mediumBot",
+      "role": "bot"
+    },
+    "text": "Here we go!!",
+    "timestamp": "2019-04-15T14:47:50.300Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "5BTSaqzb3TOQqfREoTXAzjXtqD0="
+    },
+    "id": "8",
+    "recipient": {
+      "id": "5ZEn4nUv/BEmgBdirke48+llDr4=",
+      "name": "Reynold",
+      "role": "user"
+    },
+    "from": {
+      "id": "fnErdOa20CJJQEuFA+cIBOWpJSU=",
+      "name": "mediumBot",
+      "role": "bot"
+    },
+    "text": "The weather for london will be rainy and the temperature will be 15 degree celsius",
+    "timestamp": "2019-04-15T14:47:52.300Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "5BTSaqzb3TOQqfREoTXAzjXtqD0="
+    },
+    "id": "9",
+    "recipient": {
+      "id": "fnErdOa20CJJQEuFA+cIBOWpJSU=",
+      "name": "mediumBot",
+      "role": "bot"
+    },
+    "from": {
+      "id": "5ZEn4nUv/BEmgBdirke48+llDr4=",
+      "name": "Reynold",
+      "role": "user"
+    },
+    "text": "ok, thank you",
+    "timestamp": "2019-04-15T14:47:54.300Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "5BTSaqzb3TOQqfREoTXAzjXtqD0="
+    },
+    "id": "10",
+    "recipient": {
+      "id": "5ZEn4nUv/BEmgBdirke48+llDr4=",
+      "name": "Reynold",
+      "role": "user"
+    },
+    "from": {
+      "id": "fnErdOa20CJJQEuFA+cIBOWpJSU=",
+      "name": "mediumBot",
+      "role": "bot"
+    },
+    "text": "You are welcome, Anything else?",
+    "timestamp": "2019-04-15T14:47:56.300Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "5BTSaqzb3TOQqfREoTXAzjXtqD0="
+    },
+    "id": "11",
+    "recipient": {
+      "id": "fnErdOa20CJJQEuFA+cIBOWpJSU=",
+      "name": "mediumBot",
+      "role": "bot"
+    },
+    "from": {
+      "id": "5ZEn4nUv/BEmgBdirke48+llDr4=",
+      "name": "Reynold",
+      "role": "user"
+    },
+    "text": "No, thank you",
+    "timestamp": "2019-04-15T14:47:58.300Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "5BTSaqzb3TOQqfREoTXAzjXtqD0="
+    },
+    "id": "12",
+    "recipient": {
+      "id": "5ZEn4nUv/BEmgBdirke48+llDr4=",
+      "name": "Reynold",
+      "role": "user"
+    },
+    "from": {
+      "id": "fnErdOa20CJJQEuFA+cIBOWpJSU=",
+      "name": "mediumBot",
+      "role": "bot"
+    },
+    "text": "Have a nice day",
+    "timestamp": "2019-04-15T14:48:00.300Z",
+    "type": "message",
+    "channelId": "chatdown"
+  }
+]
